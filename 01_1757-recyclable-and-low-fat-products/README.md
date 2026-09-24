@@ -31,13 +31,14 @@ low_fats = 'Y'
 recyclable = 'Y'
 
 Use the WHERE clause with the AND operator to filter the required products.
-
+<pre>
 💻 SQL Solution
 SELECT product_id
 FROM Products
 WHERE low_fats = 'Y'
   AND recyclable = 'Y';
-
+  </pre>
+<pre>
 📥 Example Input
 Products
 product_id	low_fats	recyclable
@@ -46,10 +47,14 @@ product_id	low_fats	recyclable
 2	N	Y
 3	Y	Y
 4	N	N
+</pre>
+<pre>
 📤 Example Output
 product_id
 1
 3
+  </pre>
+  <pre>
 🔍 Explanation
 
 Products 1 and 3 have:
@@ -59,7 +64,7 @@ low_fats = 'Y'
 recyclable = 'Y'
 
 Therefore, the result contains product IDs 1 and 3.
-
+</pre>
 🧠 SQL Concepts
 
 SELECT
