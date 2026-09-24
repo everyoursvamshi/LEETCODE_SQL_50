@@ -10,7 +10,7 @@ Sure — here is the **raw Markdown** you can directly copy into your `README.md
 
  Welcome to the **SQL 50 LeetCode** repository!
 
- This repository contains solutions to **50 SQL problems from LeetCode**, along with **video explanations** to help you understand the concepts and approaches behind each solution.
+ This repository contains solutions to **50 SQL problems from LeetCode**, along with **video explanations** (comming soon) to help you understand the concepts and approaches behind each solution.
 
  Whether you're a **beginner looking to strengthen your SQL skills** or an **experienced developer revisiting SQL concepts**, this collection is designed to help you practice, learn, and improve.
 
@@ -18,7 +18,7 @@ Sure — here is the **raw Markdown** you can directly copy into your `README.md
 
  - 50 SQL problems from LeetCode
 - SQL solutions for each problem
-- Video explanations for better understanding
+- Video explanations for better understanding - comming soon
 - Practical examples of commonly used SQL concepts
 - Problems suitable for SQL practice and interview preparation
 
